@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "git.confirmSync": false,
+  "extensions.ignoreRecommendations": true,
+  "window.zoomLevel": 1,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 13,
+  "editor.formatOnType": true
+}
